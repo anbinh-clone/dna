@@ -1,0 +1,5 @@
+/*
+allmusic.com.
+
+*/
+package am
